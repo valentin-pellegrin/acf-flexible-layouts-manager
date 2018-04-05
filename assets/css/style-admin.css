@@ -1,0 +1,33 @@
+.wp-admin .boxcontent .content {
+    position: relative;
+}
+.wp-admin .boxcontent .content .load {
+    position: absolute;
+    width: 100%;
+    height: 101%;
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: none;
+}
+.wp-admin .boxcontent .content .load.is-active {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.wp-admin .boxcontent .content .load .spinner {
+    margin: auto;
+}
+.wp-admin #TB_window {
+    height: auto !important;
+    width: auto !important;
+}
+.wp-admin #TB_window form#acf-flm-form-answer-custom-select-layout ul li {
+    margin-left: 20px;
+}
+.select-layout-result {
+    display: none;
+}
+.select-layout-result.is-active {
+    display: block !important;
+}

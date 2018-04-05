@@ -1,0 +1,112 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ACF Flexible Layouts Manager\n"
+"POT-Creation-Date: 2018-04-05 17:23+0200\n"
+"PO-Revision-Date: 2018-04-05 17:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: acf-flexible-layouts-manager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: helpers/add-button.php:58
+msgid "Copy all layouts"
+msgstr ""
+
+#: helpers/add-button.php:62
+msgid "Paste layout(s)"
+msgstr ""
+
+#: helpers/add-button.php:65
+msgid "Import layout(s)"
+msgstr ""
+
+#: includes/languages.php:5
+msgid "Duplicate this layout"
+msgstr ""
+
+#: includes/languages.php:6
+msgid "Copy this layout"
+msgstr ""
+
+#: includes/languages.php:7
+msgid "Layout copied!"
+msgstr ""
+
+#: includes/languages.php:8
+msgid "Layouts copied!"
+msgstr ""
+
+#: includes/languages.php:9
+msgid ""
+"Did you save your modifications? The duplication functionnality will "
+"overwrite your unsaved data."
+msgstr ""
+
+#: includes/languages.php:10
+msgid "You can't duplicate a unsaved layout."
+msgstr ""
+
+#: includes/languages.php:11
+msgid "There is an error in your data."
+msgstr ""
+
+#: includes/languages.php:12
+msgid "Selection of layout(s) to import:"
+msgstr ""
+
+#: includes/languages.php:13 includes/paste.php:30
+msgid "Behavior of the import:"
+msgstr ""
+
+#: includes/languages.php:14 includes/paste.php:32
+msgid "Add to the other(s) layout(s)"
+msgstr ""
+
+#: includes/languages.php:15 includes/paste.php:37
+msgid "Replace current layout(s)"
+msgstr ""
+
+#: includes/languages.php:16
+msgid "There is no layout selected"
+msgstr ""
+
+#: includes/paste.php:24
+msgid "Paste JSON data here:"
+msgstr ""
+
+#: includes/paste.php:41 includes/select.php:29
+msgid "Update"
+msgstr ""
+
+#: includes/select.php:28
+msgid "Back"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ACF Flexible Layouts Manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add Copy, Duplicate, Import & Paste for layout in ACF Flexible Content"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Valentin PELLEGRIN"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/valentin-pellegrin"
+msgstr ""
