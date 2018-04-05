@@ -46,19 +46,19 @@ This plugin doesn't work with clone of flexible content too.
 ## Screenshots
 
 * Duplicate layout button
-![Duplicate layout button](https://github.com/acf-duplicate-and-manage-flexible-layout/assets/screenshots/duplicate-hover.png "Duplicate layout button")
+![Duplicate layout button](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager/blob/master/assets/screenshots/duplicate-hover.png "Duplicate layout button")
 
 * Copy layout button
-![Copy layout button](https://github.com/acf-duplicate-and-manage-flexible-layout/assets/screenshots/copy-hover.png "Copy layout button")
+![Copy layout button](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager/blob/master/assets/screenshots/copy-hover.png "Copy layout button")
 
 * Main button action "Copy all", "Paste", "Import"
-![Main button action](https://github.com/acf-duplicate-and-manage-flexible-layout/assets/screenshots/add-button.png "Main button action")
+![Main button action](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager/blob/master/assets/screenshots/add-button.png "Main button action")
 
 * Paste layout modal
-![Paste layout modal](https://github.com/acf-duplicate-and-manage-flexible-layout/assets/screenshots/past-layout.png "Paste layout modal")
+![Paste layout modal](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager/blob/master/assets/screenshots/past-layout.png "Paste layout modal")
 
 * Import layout modal first step "Select Post"
-![Import layout modal first step](https://github.com/acf-duplicate-and-manage-flexible-layout/assets/screenshots/import-select-post.png "Import layout modal first step")
+![Import layout modal first step](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager/blob/master/assets/screenshots/import-select-post.png "Import layout modal first step")
 
 * Import layout modal second step "Select Layout"
-![Import layout modal second step](https://github.com/acf-duplicate-and-manage-flexible-layout/assets/screenshots/import-select-layout.png "Import layout modal second step")
+![Import layout modal second step](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager/blob/master/assets/screenshots/import-select-layout.png "Import layout modal second step")
